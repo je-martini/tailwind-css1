@@ -6,6 +6,10 @@ module.exports = {
       colors: {
         'one': '#f3c614',
         'two': '#353535'
+      },
+      height: {
+        '100': '25rem',
+
       }
     },
   },
